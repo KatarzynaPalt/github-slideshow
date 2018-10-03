@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-love the GitHub
+>"So many books, so little time" - by Frank Zappa
 Use the left arrow to go back!
